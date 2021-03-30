@@ -1,5 +1,9 @@
 /* 
     Inter font 
     Paste it in your css file
+    example of usage: 
+        .class{
+            font-family: 'Inter', sans-serif;
+        }
 */
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
